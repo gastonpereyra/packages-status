@@ -19,9 +19,9 @@ Add a new Package [NAME] tests, badges, and links
 To Have quickly access to [NAME] info
 
 ##  :ok_hand: Criteria
-- Add Action File to `./actions/[NAME].js` with quickly main use of the package, throwing errors if it works wrong.
-- Add NPM Script `"[NAME]-status": "node ./actions/[NAME]"`
-- Add Action Workflow to `./github/workflows/[NAME.yml]`
+- Add Action File to `./actions/NAME.js` with quickly main use of the package, throwing errors if it works wrong.
+- Add NPM Script `"NAME-status": "node ./actions/NAME"`
+- Add Action Workflow to `./github/workflows/NAME.yml`
 - Add package info, link to NPM and Repository, badges, description and example in README 
 
 ##  :blue_book: Description
