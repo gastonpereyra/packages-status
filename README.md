@@ -9,7 +9,7 @@
 <details>
  <summary>NPM Packages to help to manage objects, arrays and other things</summary>
   
-  ### :X: Press-F
+  ### :x: Press-F
   
 </details>
 
