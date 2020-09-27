@@ -1,4 +1,4 @@
-name: NAME-Status
+name: Objects-Normalizer-Status
 
 on:
   schedule:
@@ -20,5 +20,5 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm i
-    - run: npm i NAME
-    - run: npm run NAME-status
+    - run: npm i objects-normalizer
+    - run: npm run objects-normalizer-status
