@@ -4,7 +4,8 @@
   "description": "To Know the status of several packages",
   "main": "index.js",
   "scripts": {
-    "press-f-status": "node ./actions/press-f"
+    "press-f-status": "node ./actions/press-f",
+    "objects-normalizer-status": "node ./actions/objects-normalizer"
   },
   "repository": {
     "type": "git",

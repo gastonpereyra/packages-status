@@ -21,6 +21,19 @@
   - **Real Description**: It's an Error Wrapper to add a custom Error Name.
   - [**NPM Link**](https://www.npmjs.com/package/press-f)
   - [**Repository Link**](https://github.com/gastonpereyra/press-f)
+
+  ### :hocho: Objects-Normalizer
+  ![NPM Version](https://img.shields.io/npm/v/objects-normalizer.svg)
+  ![NPM downloads](https://img.shields.io/npm/dm/objects-normalizer.svg)
+  ![NPM bundle size](https://img.shields.io/bundlephobia/min/objects-normalizer)
+  ![Build Status](https://github.com/gastonpereyra/objects-normalizer/workflows/Build%20Status/badge.svg)
+  [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/objects-normalizer/master.svg)](https://coveralls.io/r/gastonpereyra/objects-normalizer?branch=master)
+  ![Last Version Status](https://github.com/gastonpereyra/packages-status/workflows/Objects-Normalizer-Status/badge.svg)
+
+  - **Description**: Normalizes object keys, to have all the same keys by keeping or removing fields
+  - **Installation**: `npm i objects-normalizer`
+  - [**NPM Link**](https://www.npmjs.com/package/objects-normalizer)
+  - [**Repository Link**](https://github.com/gastonpereyra/objects-normalizer)
   
 </details>
 
