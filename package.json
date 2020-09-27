@@ -1,0 +1,19 @@
+{
+  "name": "packages-status",
+  "version": "1.0.0",
+  "description": "To Know the status of several packages",
+  "main": "index.js",
+  "scripts": {
+    "press-f-status": "node ./actions/press-f"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gastonpereyra/packages-status.git"
+  },
+  "author": "Gastón Pereyra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gastonpereyra/packages-status/issues"
+  },
+  "homepage": "https://github.com/gastonpereyra/packages-status#readme"
+}
