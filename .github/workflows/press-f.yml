@@ -1,15 +1,11 @@
-name: Press F Status
+name: Press-F-Status
 
 on:
-  workflow_dispatch:
-    inputs:
-      message:
-        description: 'Message'
-        default: 'Begin!'
-        required: false
+  schedule:
+    - cron: "0 * * * *"
 
 jobs:
-  build:
+  Check-Status:
 
     runs-on: ubuntu-latest
 
