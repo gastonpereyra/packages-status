@@ -6,7 +6,8 @@
   "scripts": {
     "press-f-status": "node ./actions/press-f",
     "objects-normalizer-status": "node ./actions/objects-normalizer",
-    "are-objects-equals-status": "node ./actions/are-objects-equals"
+    "are-objects-equals-status": "node ./actions/are-objects-equals",
+    "get-unique-objects-status": "node ./actions/get-unique-objects"
   },
   "repository": {
     "type": "git",

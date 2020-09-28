@@ -47,6 +47,19 @@
   - **Installation**: `npm i are-objects-equals`
   - [**NPM Link**](https://www.npmjs.com/package/are-objects-equals)
   - [**Repository Link**](https://github.com/gastonpereyra/are-objects-equals)
+
+  ### :spades: Get-Unique-Objects
+  ![NPM Version](https://img.shields.io/npm/v/get-unique-objects.svg)
+  ![NPM downloads](https://img.shields.io/npm/dm/get-unique-objects.svg)
+  ![NPM bundle size](https://img.shields.io/bundlephobia/min/get-unique-objects)
+  ![Tests Status](https://github.com/gastonpereyra/get-unique-objects/workflows/Build%20Status/badge.svg)
+  [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/get-unique-objects/master.svg)](https://coveralls.io/r/gastonpereyra/get-unique-objects?branch=master)
+  ![Last Version Status](https://github.com/gastonpereyra/packages-status/workflows/Get-Unique-Objects-Status/badge.svg)
+
+  - **Description**: Get unique objects from array of objects (can be normalize before compare them)
+  - **Installation**: `npm i get-unique-objects`
+  - [**NPM Link**](https://www.npmjs.com/package/get-unique-objects)
+  - [**Repository Link**](https://github.com/gastonpereyra/get-unique-objects)
   
 </details>
 
