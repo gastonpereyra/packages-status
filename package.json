@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "press-f-status": "node ./actions/press-f",
-    "objects-normalizer-status": "node ./actions/objects-normalizer"
+    "objects-normalizer-status": "node ./actions/objects-normalizer",
+    "are-objects-equals-status": "node ./actions/are-objects-equals"
   },
   "repository": {
     "type": "git",

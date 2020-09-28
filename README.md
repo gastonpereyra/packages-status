@@ -13,7 +13,7 @@
   ![NPM Version](https://img.shields.io/npm/v/press-f.svg)
   ![NPM downloads](https://img.shields.io/npm/dm/press-f.svg)
   ![NPM bundle size](https://img.shields.io/bundlephobia/min/press-f)
-  ![Build Status](https://github.com/gastonpereyra/press-f/workflows/Build%20Status/badge.svg)
+  ![Tests Status](https://github.com/gastonpereyra/press-f/workflows/Build%20Status/badge.svg)
   [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/press-f/master.svg)](https://coveralls.io/r/gastonpereyra/press-f?branch=master)
   ![Last Version Status](https://github.com/gastonpereyra/packages-status/workflows/Press-F-Status/badge.svg)
 
@@ -26,7 +26,7 @@
   ![NPM Version](https://img.shields.io/npm/v/objects-normalizer.svg)
   ![NPM downloads](https://img.shields.io/npm/dm/objects-normalizer.svg)
   ![NPM bundle size](https://img.shields.io/bundlephobia/min/objects-normalizer)
-  ![Build Status](https://github.com/gastonpereyra/objects-normalizer/workflows/Build%20Status/badge.svg)
+  ![Tests Status](https://github.com/gastonpereyra/objects-normalizer/workflows/Build%20Status/badge.svg)
   [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/objects-normalizer/master.svg)](https://coveralls.io/r/gastonpereyra/objects-normalizer?branch=master)
   ![Last Version Status](https://github.com/gastonpereyra/packages-status/workflows/Objects-Normalizer-Status/badge.svg)
 
@@ -34,6 +34,19 @@
   - **Installation**: `npm i objects-normalizer`
   - [**NPM Link**](https://www.npmjs.com/package/objects-normalizer)
   - [**Repository Link**](https://github.com/gastonpereyra/objects-normalizer)
+
+  ### :triangular_ruler: Are-Objects-Equals
+  ![NPM Version](https://img.shields.io/npm/v/are-objects-equals.svg)
+  ![NPM downloads](https://img.shields.io/npm/dm/are-objects-equals.svg)
+  ![NPM bundle size](https://img.shields.io/bundlephobia/min/are-objects-equals)
+  ![Tests Status](https://github.com/gastonpereyra/are-objects-equals/workflows/Build%20Status/badge.svg)
+  [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/are-objects-equals/master.svg)](https://coveralls.io/r/gastonpereyra/are-objects-equals?branch=master)
+  ![Last Version Status](https://github.com/gastonpereyra/packages-status/workflows/Are-Objects-Equals-Status/badge.svg)
+
+  - **Description**: 
+  - **Installation**: `npm i are-objects-equals`
+  - [**NPM Link**](https://www.npmjs.com/package/are-objects-equals)
+  - [**Repository Link**](https://github.com/gastonpereyra/are-objects-equals)
   
 </details>
 

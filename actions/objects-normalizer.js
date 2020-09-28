@@ -22,7 +22,7 @@ const formattedKeepObject = objectNormalizer([baseObject, baseObject], { keepFie
 if(!isEqual(formattedKeepObject, [normalizeObjectExpected, normalizeObjectExpected]))
     throw new Error('KeepFields not Working');
 
-const formattedRemoveObject = objectNormalizer([baseObject, baseObject], { removeFields: ['title', 'isFake', 'languages', superPower] });
+const formattedRemoveObject = objectNormalizer([baseObject, baseObject], { removeFields: ['title', 'isFake', 'languages', 'superPower'] });
 
 if(!isEqual(formattedRemoveObject, [normalizeObjectExpected, normalizeObjectExpected]))
     throw new Error('RemoveFields not Working');
