@@ -68,11 +68,4 @@
 <details>
  <summary>NPM Packages to help to make API request</summary>
   
-  ### :cloud: Weather-arg
-  
-  - **Description**: 
-  - **Installation**: `npm i NAME`
-  - [**NPM Link**](https://www.npmjs.com/package/NAME)
-  - [**Repository Link**](https://github.com/gastonpereyra/NAME)
-  
 </details>
