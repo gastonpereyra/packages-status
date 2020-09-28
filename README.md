@@ -43,7 +43,7 @@
   [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/are-objects-equals/master.svg)](https://coveralls.io/r/gastonpereyra/are-objects-equals?branch=master)
   ![Last Version Status](https://github.com/gastonpereyra/packages-status/workflows/Are-Objects-Equals-Status/badge.svg)
 
-  - **Description**: 
+  - **Description**: A tool to compare objects easier, and normalize if necessary
   - **Installation**: `npm i are-objects-equals`
   - [**NPM Link**](https://www.npmjs.com/package/are-objects-equals)
   - [**Repository Link**](https://github.com/gastonpereyra/are-objects-equals)
