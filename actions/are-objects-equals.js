@@ -22,7 +22,7 @@ const isEqualKeep = areObjectsEquals(baseObject, compareObjects, { fieldsToKeep:
 if(!isEqual(isEqualKeep, true))
     throw new Error('KeepFields not Working');
 
-const isEqualRemove = objectNormalizer(baseObject, compareObjects, { fieldsToRemove: ['title', 'isFake', 'languages', 'superPower'] });
+const isEqualRemove = areObjectsEquals(baseObject, compareObjects, { fieldsToRemove: ['title', 'isFake', 'languages', 'superPower'] });
 
 if(!isEqual(isEqualRemove, true))
     throw new Error('RemoveFields not Working');
