@@ -1,7 +1,7 @@
 'use strict';
 
 const areObjectsEquals = require('are-objects-equals');
-const isEqual = require('../lib/are-equals');
+const isEqual = require('../lib/are-equal');
 
 const baseObject = {
     name: 'Gastón',
