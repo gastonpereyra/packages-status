@@ -17,12 +17,12 @@ const compareObjects = {
     age: 33
 };
 
-const isEqualKeep = areObjectsEquals(baseObject, compareObjects, { keepFields: ['name', 'age'] });
+const isEqualKeep = areObjectsEquals(baseObject, compareObjects, { fieldsToKeep: ['name', 'age'] });
 
 if(!isEqual(isEqualKeep, true))
     throw new Error('KeepFields not Working');
 
-const isEqualRemove = objectNormalizer(baseObject, compareObjects, { removeFields: ['title', 'isFake', 'languages', 'superPower'] });
+const isEqualRemove = objectNormalizer(baseObject, compareObjects, { fieldsToRemove: ['title', 'isFake', 'languages', 'superPower'] });
 
 if(!isEqual(isEqualRemove, true))
     throw new Error('RemoveFields not Working');
