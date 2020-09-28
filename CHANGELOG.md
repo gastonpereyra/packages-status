@@ -9,3 +9,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - Press-F Action to check Status
 - Objects-Normalizer Action to check Status
+- Are-objects-equals Action to check Status
