@@ -5,7 +5,7 @@ const { structPrototype } = require('struct-prototype');
 const myDataStructure = {
     name: 'string',
     age: 'number',
-    isAdmin: 'Boolean'
+    isAdmin: 'boolean'
 }
 
 const data = {
