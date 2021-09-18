@@ -66,7 +66,7 @@
   ![NPM downloads](https://img.shields.io/npm/dm/struct-prototype.svg)
   ![NPM bundle size](https://img.shields.io/bundlephobia/min/struct-prototype)
   ![Tests Status](https://github.com/gastonpereyra/struct-prototype/workflows/Build%20Status/badge.svg)
-  [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/struct-prototype/master.svg)](https://coveralls.io/r/gastonpereyra/struct-prototype?branch=master)
+  [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/struct-prototype/master.svg)](https://coveralls.io/r/gastonpereyra/Struct-Prototype?branch=master)
   ![Last Version Status](https://github.com/gastonpereyra/packages-status/workflows/struct-prototype-Status/badge.svg)
 
   - **Description**: To validate data structure. It's a Prototype
