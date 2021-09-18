@@ -1,0 +1,31 @@
+name: Vercel-Serverless-Api-Status
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+  workflow_dispatch:
+    inputs:
+      run:
+        description: 'If you want to run the action'
+        default: 'YES!'
+        required: false
+
+jobs:
+  Check-Status:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: npm i
+    - run: npm i vercel-serverless-api
+    - run: npm run vercel-serverless-api-status

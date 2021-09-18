@@ -1,6 +1,6 @@
 {
   "name": "packages-status",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "To Know the status of several packages",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,8 @@
     "are-objects-equals-status": "node ./actions/are-objects-equals",
     "get-unique-objects-status": "node ./actions/get-unique-objects",
     "weather-arg-status": "node ./actions/weather-arg",
-    "struct-prototype-status": "node ./actions/struct-prototype"
+    "struct-prototype-status": "node ./actions/struct-prototype",
+    "vercel-serverless-api-status": "node ./actions/vercel-serverless-api"
   },
   "repository": {
     "type": "git",

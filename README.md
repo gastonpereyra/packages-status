@@ -94,5 +94,18 @@
   - **Installation**: `npm i weather-arg`
   - [**NPM Link**](https://www.npmjs.com/package/weather-arg)
   - [**Repository Link**](https://github.com/gastonpereyra/weather-arg)
+
+  ### :arrow_up_small: Vercel Serverless API
+  ![NPM Version](https://img.shields.io/npm/v/vercel-serverless-api.svg)
+  ![NPM downloads](https://img.shields.io/npm/dm/vercel-serverless-api.svg)
+  ![NPM bundle size](https://img.shields.io/bundlephobia/min/vercel-serverless-api)
+  ![Tests Status](https://github.com/gastonpereyra/vercel-serverless-api/workflows/Build%20Status/badge.svg)
+  [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/vercel-serverless-api/master.svg)](https://coveralls.io/r/gastonpereyra/vercel-serverless-api?branch=master)
+  ![Last Version Status](https://github.com/gastonpereyra/packages-status/workflows/Vercel-Serverless-Api-Status/badge.svg)
+
+  - **Description**: A handler for Serverless Function in **Vercel** to develop any API
+  - **Installation**: `npm i vercel-serverless-api`
+  - [**NPM Link**](https://www.npmjs.com/package/vercel-serverless-api)
+  - [**Repository Link**](https://github.com/gastonpereyra/vercel-serverless-api)
   
 </details>

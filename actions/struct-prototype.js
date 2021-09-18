@@ -17,7 +17,6 @@ const data = {
 try{
     structPrototype(myDataStructure)(data);
 } catch(error) {
-    console.log(error);
     throw new Error('Struct Prototype not Working');
 }
     
