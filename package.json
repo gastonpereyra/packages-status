@@ -8,7 +8,8 @@
     "objects-normalizer-status": "node ./actions/objects-normalizer",
     "are-objects-equals-status": "node ./actions/are-objects-equals",
     "get-unique-objects-status": "node ./actions/get-unique-objects",
-    "weather-arg-status": "node ./actions/weather-arg"
+    "weather-arg-status": "node ./actions/weather-arg",
+    "struct-prototype-status": "node ./actions/struct-prototype"
   },
   "repository": {
     "type": "git",
