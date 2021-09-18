@@ -73,7 +73,7 @@
   ![NPM Version](https://img.shields.io/npm/v/weather-arg.svg)
   ![NPM downloads](https://img.shields.io/npm/dm/weather-arg.svg)
   ![NPM bundle size](https://img.shields.io/bundlephobia/min/weather-arg)
-  ![Tests Status](https://github.com/gastonpereyra/weather-arg/workflows/Build%20Status/badge.svg)
+  ![Tests Status](https://github.com/gastonpereyra/weather-arg/workflows/tests/badge.svg)
   [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/weather-arg/master.svg)](https://coveralls.io/r/gastonpereyra/weather-arg?branch=master)
   ![Last Version Status](https://github.com/gastonpereyra/packages-status/workflows/Weather-Arg-Status/badge.svg)
 
