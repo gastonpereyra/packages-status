@@ -1,7 +1,7 @@
 ---
 name: Story
 about: Story to organize development
-title: "[STORY] PS - XX - Add [NAME] package Info"
+title: "[Statuses] - README - Add [NAME] package Info"
 labels: enhancement
 assignees: gastonpereyra
 proyects: Node Utility
