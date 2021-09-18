@@ -1,4 +1,4 @@
-name: weather-arg-Status
+name: Weather-Arg-Status
 
 on:
   schedule:
