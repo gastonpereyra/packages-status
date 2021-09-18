@@ -27,5 +27,3 @@ const weatherFields = [
         throw new Error('Weather-arg not Working');
 })()
 
-
-    
