@@ -60,6 +60,19 @@
   - **Installation**: `npm i get-unique-objects`
   - [**NPM Link**](https://www.npmjs.com/package/get-unique-objects)
   - [**Repository Link**](https://github.com/gastonpereyra/get-unique-objects)
+
+  ### :straight_ruler: Struct-Prototype
+  ![NPM Version](https://img.shields.io/npm/v/struct-prototype.svg)
+  ![NPM downloads](https://img.shields.io/npm/dm/struct-prototype.svg)
+  ![NPM bundle size](https://img.shields.io/bundlephobia/min/struct-prototype)
+  ![Tests Status](https://github.com/gastonpereyra/struct-prototype/workflows/Build%20Status/badge.svg)
+  [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/struct-prototype/master.svg)](https://coveralls.io/r/gastonpereyra/struct-prototype?branch=master)
+  ![Last Version Status](https://github.com/gastonpereyra/packages-status/workflows/struct-prototype-Status/badge.svg)
+
+  - **Description**: To validate data structure. It's a Prototype
+  - **Installation**: `npm i struct-prototype`
+  - [**NPM Link**](https://www.npmjs.com/package/struct-prototype)
+  - [**Repository Link**](https://github.com/gastonpereyra/struct-prototype)
   
 </details>
 
