@@ -1,13 +1,14 @@
 {
   "name": "packages-status",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "description": "To Know the status of several packages",
   "main": "index.js",
   "scripts": {
     "press-f-status": "node ./actions/press-f",
     "objects-normalizer-status": "node ./actions/objects-normalizer",
     "are-objects-equals-status": "node ./actions/are-objects-equals",
-    "get-unique-objects-status": "node ./actions/get-unique-objects"
+    "get-unique-objects-status": "node ./actions/get-unique-objects",
+    "weather-arg-status": "node ./actions/weather-arg"
   },
   "repository": {
     "type": "git",
