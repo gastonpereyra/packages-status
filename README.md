@@ -72,7 +72,19 @@
   - **Description**: To validate data structure. It's a Prototype
   - **Installation**: `npm i struct-prototype`
   - [**NPM Link**](https://www.npmjs.com/package/struct-prototype)
-  - [**Repository Link**](https://github.com/gastonpereyra/struct-prototype)
+  
+  ### :key: Map-Items-By-Key 
+  ![NPM Version](https://img.shields.io/npm/v/map-items-by-key.svg)
+  ![NPM downloads](https://img.shields.io/npm/dm/map-items-by-key.svg)
+  ![NPM bundle size](https://img.shields.io/bundlephobia/min/map-items-by-key)
+  ![Tests Status](https://github.com/gastonpereyra/map-items-by-key/workflows/Build%20Status/badge.svg)
+  [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/map-items-by-key/master.svg)](https://coveralls.io/r/gastonpereyra/map-items-by-key?branch=master)
+  ![Last Version Status](https://github.com/gastonpereyra/packages-status/workflows/map-items-by-key-status/badge.svg)
+
+  - **Description**: 
+  - **Installation**: `npm i map-items-by-key`
+  - [**NPM Link**](https://www.npmjs.com/package/map-items-by-key)
+  - [**Repository Link**](https://github.com/gastonpereyra/map-items-by-key)
   
 </details>
 
