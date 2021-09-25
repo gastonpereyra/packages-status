@@ -74,7 +74,7 @@
   - [**NPM Link**](https://www.npmjs.com/package/struct-prototype)
   
   ### :key: Map-Items-By-Keys
-  ![NPM Version](https://img.shields.io/npm/v/map-items-by-key.svg)
+  ![NPM Version](https://img.shields.io/npm/v/map-items-by-keys.svg)
   ![NPM downloads](https://img.shields.io/npm/dm/map-items-by-keys.svg)
   ![NPM bundle size](https://img.shields.io/bundlephobia/min/map-items-by-keys)
   ![Tests Status](https://github.com/gastonpereyra/map-items-by-keys/workflows/Build%20Status/badge.svg)
