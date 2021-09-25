@@ -1,4 +1,4 @@
-name: map-items-by-key-status
+name: Map-Items-By-Keys-Status
 
 on:
   schedule:
@@ -27,5 +27,5 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm i
-    - run: npm i map-items-by-key
+    - run: npm i map-items-by-keys
     - run: npm run map-items-by-key-status

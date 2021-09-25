@@ -73,18 +73,18 @@
   - **Installation**: `npm i struct-prototype`
   - [**NPM Link**](https://www.npmjs.com/package/struct-prototype)
   
-  ### :key: Map-Items-By-Key 
+  ### :key: Map-Items-By-Keys
   ![NPM Version](https://img.shields.io/npm/v/map-items-by-key.svg)
-  ![NPM downloads](https://img.shields.io/npm/dm/map-items-by-key.svg)
-  ![NPM bundle size](https://img.shields.io/bundlephobia/min/map-items-by-key)
-  ![Tests Status](https://github.com/gastonpereyra/map-items-by-key/workflows/Build%20Status/badge.svg)
-  [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/map-items-by-key/master.svg)](https://coveralls.io/r/gastonpereyra/map-items-by-key?branch=master)
-  ![Last Version Status](https://github.com/gastonpereyra/packages-status/workflows/map-items-by-key-status/badge.svg)
+  ![NPM downloads](https://img.shields.io/npm/dm/map-items-by-keys.svg)
+  ![NPM bundle size](https://img.shields.io/bundlephobia/min/map-items-by-keys)
+  ![Tests Status](https://github.com/gastonpereyra/map-items-by-keys/workflows/Build%20Status/badge.svg)
+  [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/map-items-by-keys/master.svg)](https://coveralls.io/r/gastonpereyra/map-items-by-keys?branch=master)
+  ![Last Version Status](https://github.com/gastonpereyra/packages-status/workflows/Map-Items-By-Keys-Status/badge.svg)
 
   - **Description**: 
-  - **Installation**: `npm i map-items-by-key`
-  - [**NPM Link**](https://www.npmjs.com/package/map-items-by-key)
-  - [**Repository Link**](https://github.com/gastonpereyra/map-items-by-key)
+  - **Installation**: `npm i map-items-by-keys`
+  - [**NPM Link**](https://www.npmjs.com/package/map-items-by-keys)
+  - [**Repository Link**](https://github.com/gastonpereyra/map-items-by-keys)
   
 </details>
 

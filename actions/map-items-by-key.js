@@ -1,6 +1,6 @@
 'use strict';
 
-const mapItemsBy = require('map-items-by-key');
+const mapItemsBy = require('map-items-by-keys');
 const isEqual = require('../lib/are-equals-object');
 
 const baseObject = {
