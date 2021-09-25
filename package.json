@@ -1,16 +1,17 @@
 {
   "name": "packages-status",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "To Know the status of several packages",
   "main": "index.js",
   "scripts": {
-    "press-f-status": "node ./actions/press-f",
-    "objects-normalizer-status": "node ./actions/objects-normalizer",
     "are-objects-equals-status": "node ./actions/are-objects-equals",
     "get-unique-objects-status": "node ./actions/get-unique-objects",
-    "weather-arg-status": "node ./actions/weather-arg",
+    "map-items-by-key-status": "node ./actions/map-items-by-key ",
+    "objects-normalizer-status": "node ./actions/objects-normalizer",
+    "press-f-status": "node ./actions/press-f",
     "struct-prototype-status": "node ./actions/struct-prototype",
-    "vercel-serverless-api-status": "node ./actions/vercel-serverless-api"
+    "vercel-serverless-api-status": "node ./actions/vercel-serverless-api",
+    "weather-arg-status": "node ./actions/weather-arg"
   },
   "repository": {
     "type": "git",
