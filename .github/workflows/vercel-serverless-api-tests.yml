@@ -27,5 +27,5 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm i
-    - run: npm i vercel-serverless-api-tests
+    - run: npm i vercel-serverless-tests
     - run: npm run vercel-serverless-api-tests-status

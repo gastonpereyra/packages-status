@@ -121,16 +121,16 @@
   - [**Repository Link**](https://github.com/gastonpereyra/vercel-serverless-api)
 
   ### :small_red_triangle: Vercel Serverless API Tests
-  ![NPM Version](https://img.shields.io/npm/v/vercel-serverless-api-tests.svg)
-  ![NPM downloads](https://img.shields.io/npm/dm/vercel-serverless-api-tests.svg)
-  ![NPM bundle size](https://img.shields.io/bundlephobia/min/vercel-serverless-api-tests)
+  ![NPM Version](https://img.shields.io/npm/v/vercel-serverless-tests.svg)
+  ![NPM downloads](https://img.shields.io/npm/dm/vercel-serverless-tests.svg)
+  ![NPM bundle size](https://img.shields.io/bundlephobia/min/vercel-serverless-tests)
   ![Tests Status](https://github.com/gastonpereyra/vercel-serverless-api-tests/workflows/Build%20Status/badge.svg)
   [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/vercel-serverless-api-tests/master.svg)](https://coveralls.io/r/gastonpereyra/vercel-serverless-api-tests?branch=master)
   ![Last Version Status](https://github.com/gastonpereyra/packages-status/workflows/vercel-serverless-api-tests-Status/badge.svg)
 
   - **Description**: A Helper to make tests with vercel-serverless-api package
-  - **Installation**: `npm i vercel-serverless-api-tests`
-  - [**NPM Link**](https://www.npmjs.com/package/vercel-serverless-api-tests)
+  - **Installation**: `npm i vercel-serverless-tests`
+  - [**NPM Link**](https://www.npmjs.com/package/vercel-serverless-tests)
   - [**Repository Link**](https://github.com/gastonpereyra/vercel-serverless-api-tests)
 
 </details>
