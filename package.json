@@ -1,6 +1,6 @@
 {
   "name": "packages-status",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "To Know the status of several packages",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "press-f-status": "node ./actions/press-f",
     "struct-prototype-status": "node ./actions/struct-prototype",
     "vercel-serverless-api-status": "node ./actions/vercel-serverless-api",
+    "vercel-serverless-api-tests-status": "node ./actions/vercel-serverless-api-tests",
     "weather-arg-status": "node ./actions/weather-arg"
   },
   "repository": {
