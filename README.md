@@ -133,4 +133,17 @@
   - [**NPM Link**](https://www.npmjs.com/package/vercel-serverless-tests)
   - [**Repository Link**](https://github.com/gastonpereyra/vercel-serverless-api-tests)
 
+  ### :traffic_light: vercel-serverless-routes
+  ![NPM Version](https://img.shields.io/npm/v/vercel-serverless-routes.svg)
+  ![NPM downloads](https://img.shields.io/npm/dm/vercel-serverless-routes.svg)
+  ![NPM bundle size](https://img.shields.io/bundlephobia/min/vercel-serverless-routes)
+  ![Tests Status](https://github.com/gastonpereyra/vercel-serverless-routes/workflows/Build%20Status/badge.svg)
+  [![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/vercel-serverless-routes/master.svg)](https://coveralls.io/r/gastonpereyra/vercel-serverless-routes?branch=master)
+  ![Last Version Status](https://github.com/gastonpereyra/packages-status/workflows/vercel-serverless-routes-Status/badge.svg)
+
+  - **Description**: A helper to build Vercel routes `vercel.json`
+  - **Installation**: `npm i vercel-serverless-routes`
+  - [**NPM Link**](https://www.npmjs.com/package/vercel-serverless-routes)
+  - [**Repository Link**](https://github.com/gastonpereyra/vercel-serverless-routes)
+
 </details>
