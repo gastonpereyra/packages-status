@@ -12,6 +12,7 @@
     "struct-prototype-status": "node ./actions/struct-prototype",
     "vercel-serverless-api-status": "node ./actions/vercel-serverless-api",
     "vercel-serverless-api-tests-status": "node ./actions/vercel-serverless-api-tests",
+    "vercel-serverless-routes-status": "node ./actions/vercel-serverless-routes",
     "weather-arg-status": "node ./actions/weather-arg"
   },
   "repository": {
